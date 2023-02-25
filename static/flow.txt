@@ -1,0 +1,4 @@
+temp+stat --> add in settings
+create app + add urls.py in app + add app in settings.py
+
+add template--> make app url --> make view --> include in proj url 
